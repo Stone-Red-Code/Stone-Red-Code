@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Stone-Red-Code&show_icons=true&theme=dark&hide_border=true&bg=#0D1117count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stone-Red-Code&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Stone-Red-Code&show_icons=true&theme=dark&hide_border=true&bg_color=#0D1117&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stone-Red-Code&theme=dark&&bg_color=#0D1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>GitHub-Readme-Stats: https://github.com/anuraghazra/github-readme-stats
