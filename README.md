@@ -1,5 +1,5 @@
 ### Hi there 👋
-# ![#f03c15]USE DARK MODE
+# ![#f03c15](USE DARK MODE)
 <!--
 **StoneRed5/StoneRed5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
