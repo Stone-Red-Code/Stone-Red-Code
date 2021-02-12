@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Stone-Red-Code&show_icons=true&bg_color=0D1117&theme=dark&hide_border=true&count_private=true)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Stone-Red-Code&show_icons=true&bg_color=0D1117&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stone-Red-Code&bg_color=0D1117&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>GitHub-Readme-Stats: https://github.com/anuraghazra/github-readme-stats
