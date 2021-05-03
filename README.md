@@ -2,7 +2,7 @@
 I'm just a random guy who likes watching anime and programming.
 
 If you want to contact me, use [Discord](https://discord.com/users/374173830819872789). Please don't send me unnecessary things and I probably won't accept friend requests.\
-[AniList](https://anilist.co/user/StoneRed) is the place where you can find out which amines I watch.\
+[AniList](https://anilist.co/user/StoneRed) is the place to find out what Animes I'm watching.\
 If you want to visit my website you can click on [here](https://stone-red-code.github.io/).
 
 
