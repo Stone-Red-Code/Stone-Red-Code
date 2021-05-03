@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm just a random guy who likes watching anime and programming.
+I'm just a random guy who likes programming and watching anime.
 
 If you want to contact me or ask a question, use [Discord](https://discord.com/users/374173830819872789).\
 Please don't send me unnecessary things and I probably won't accept friend requests.
