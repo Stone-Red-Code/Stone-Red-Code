@@ -11,7 +11,7 @@ Please don't send me unnecessary things and I probably won't accept friend reque
 
 <img src="https://user-images.githubusercontent.com/56473591/116434160-76da5b00-a84a-11eb-9d21-ee947e099dd8.png" width="115">
 
-## Social:
+
 <p><a href="https://github.com/stone-red-code"><img src="https://img.shields.io/badge/github-%23333333.svg?&amp;logo=github&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;"></a>
  <a href="https://www.nuget.org/profiles/Stone_Red"><img src="https://img.shields.io/badge/nuget-%23004880.svg?&amp;logo=nuget&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://discord.com/users/374173830819872789" rel="nofollow"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&amp;logo=discord&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;"></a>
