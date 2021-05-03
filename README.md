@@ -13,7 +13,7 @@ Please don't send me unnecessary things and I probably won't accept friend reque
 
 ## Social:
 <p><a href="https://github.com/stone-red-code"><img src="https://img.shields.io/badge/github-%23333333.svg?&amp;logo=github&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;"></a>
- <a href="https://anilist.co/user/StoneRed"><img src="https://img.shields.io/badge/nuget-%23004880.svg?&amp;logo=nuget&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;"></a>
+ <a href="https://www.nuget.org/profiles/Stone_Red"><img src="https://img.shields.io/badge/nuget-%23004880.svg?&amp;logo=nuget&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://discord.com/users/374173830819872789" rel="nofollow"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&amp;logo=discord&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://anilist.co/user/StoneRed"><img src="https://img.shields.io/badge/anilist-%23000FFF.svg?&amp;logo=anilist&amp;style=for-the-badge&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
