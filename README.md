@@ -2,7 +2,7 @@
 I'm just a random guy who likes programming and watching anime.
 
 If you want to contact me or ask a question, use [Discord](https://discord.com/users/374173830819872789).\
-I probably won't accept friend requests so just join [TPH](https://discord.gg/programming) and contact me there.\
+I probably won't accept friend requests so just join [TPH](https://discord.gg/programming) or [H-D](https://discord.gg/MRDU8hxbJv) and contact me there.\
 Please don't send me unnecessary things.
 
 
