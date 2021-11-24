@@ -3,7 +3,7 @@ I'm just a random dude  who likes programming and watching anime.
 
 If you want to contact me or ask a question, use [Discord](https://discord.com/users/374173830819872789).\
 I probably won't accept friend requests so just join [TPH](https://discord.gg/programming) or [H-D](https://discord.gg/MRDU8hxbJv) and contact me there.\
-Please don't send me unnecessary things.
+Please don't send me unnecessary things, thanks.
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Stone-Red-Code&show_icons=true&bg_color=00000000&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
