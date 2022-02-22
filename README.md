@@ -10,7 +10,7 @@ Please don't send me unnecessary things, thanks.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stone-Red-Code&exclude_repo=DesktopMagic&bg_color=00000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<img src="https://user-images.githubusercontent.com/56473591/116434160-76da5b00-a84a-11eb-9d21-ee947e099dd8.png" width="115">
+<a href="https://anilist.co/character/22369/Kanade-Tachibana"><img src="https://user-images.githubusercontent.com/56473591/116434160-76da5b00-a84a-11eb-9d21-ee947e099dd8.png" width="115"></a>
 
 [![GitHub](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/stone-red-code)
 [![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?&amp;logo=nuget&amp;style=for-the-badge&amp;logoColor=white)](https://www.nuget.org/profiles/Stone_Red)
