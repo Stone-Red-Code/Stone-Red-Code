@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm just a random dude  who likes programming and watching anime.
 
-If you want to contact me or ask a question, use [Discord (Stone_Red#0001)](https://discord.stone-red.net).\
+If you want to contact me, use [Discord (Stone_Red#0001)](https://discord.stone-red.net).\
 I probably won't accept friend requests, so just join [TPH](https://discord.gg/programming) and contact me there.\
 Please don't send me unnecessary things, thanks.
 
