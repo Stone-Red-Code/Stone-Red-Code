@@ -6,8 +6,8 @@ I probably won't accept friend requests, so just join [TPH](https://discord.gg/p
 Please don't send me unnecessary things, thanks.
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Stone-Red-Code&show_icons=true&bg_color=00000000&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stone-Red-Code&exclude_repo=DesktopMagic&bg_color=00000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://readme-stats.clckblog.space/api?username=Stone-Red-Code&show_icons=true&bg_color=00000000&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Stone-Red-Code&exclude_repo=DesktopMagic&bg_color=00000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <a href="https://anilist.co/character/22369/Kanade-Tachibana"><img src="https://user-images.githubusercontent.com/56473591/116434160-76da5b00-a84a-11eb-9d21-ee947e099dd8.png" width="115"></a>
