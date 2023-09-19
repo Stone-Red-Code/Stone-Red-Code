@@ -7,12 +7,12 @@ If you have any programming related questions, I can recommend you to join this 
 
 Here are a few technologies & tools I've been working with recently:
 
-![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dotnet&color=5834d5)
-![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&color=5834d5)\
-![Blazor](https://img.shields.io/badge/Blazor-blue?style=for-the-badge&logo=blazor&color=5834d5)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-blue?style=for-the-badge&logo=dotnet&color=5834d5)\
-![Auth0](https://img.shields.io/badge/Auth0-blue?style=for-the-badge&logo=auth0&logoColor=white&color=black)
-![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white&color=086dd7)
+[![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dotnet&color=5834d5)](https://dot.net)
+[![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&color=5834d5)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)\
+[![Blazor](https://img.shields.io/badge/Blazor-blue?style=for-the-badge&logo=blazor&color=5834d5)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-blue?style=for-the-badge&logo=dotnet&color=5834d5)](https://dotnet.microsoft.com/en-us/apps/maui)\
+[![Auth0](https://img.shields.io/badge/Auth0-blue?style=for-the-badge&logo=auth0&logoColor=white&color=black)](https://auth0.com)
+[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white&color=086dd7)](https://docker.com)
 
 [![Github stats](https://readme-stats.clckblog.space/api?username=Stone-Red-Code&show_icons=true&bg_color=00000000&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Stone-Red-Code&exclude_repo=DesktopMagic&bg_color=00000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
