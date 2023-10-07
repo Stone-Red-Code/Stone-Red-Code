@@ -18,7 +18,7 @@ Here are a few technologies & tools I've been working with recently:
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Stone-Red-Code&exclude_repo=DesktopMagic&bg_color=00000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<a href="https://anilist.co/character/22369/Kanade-Tachibana"><img src="https://user-images.githubusercontent.com/56473591/116434160-76da5b00-a84a-11eb-9d21-ee947e099dd8.png" width="115"></a>
+<a href="https://vgen.co/Cerise"><img src="https://github.com/Stone-Red-Code/Stone-Red-Code/assets/56473591/5b623567-042d-4ee7-b647-f7b0b6f8a3e1" width="115"></a>
 
 [![GitHub](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.stone-red.net)
 [![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?&amp;logo=nuget&amp;style=for-the-badge&amp;logoColor=white)](https://www.nuget.org/profiles/Stone_Red)
