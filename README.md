@@ -20,6 +20,6 @@ Here are a few technologies & tools I've been working with recently:
 
 <a href="https://vgen.co/Cerise"><img src="https://github.com/Stone-Red-Code/Stone-Red-Code/assets/56473591/5b623567-042d-4ee7-b647-f7b0b6f8a3e1" width="115"></a>
 
-[![GitHub](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](http://github.me.stone-red.net)
+[![GitHub](http://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](http://github.me.stone-red.net)
 [![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?&amp;logo=nuget&amp;style=for-the-badge&amp;logoColor=white)](https://www.nuget.org/profiles/Stone_Red)
-[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](http://discord.me.stone-red.net)
+[![Discord](http://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](http://discord.me.stone-red.net)
