@@ -22,4 +22,5 @@ Here are a few technologies & tools I've been working with recently:
 
 [![GitHub](http://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](http://github.me.stone-red.net)
 [![NuGet](https://img.shields.io/badge/nuget-%23004880.svg?&amp;logo=nuget&amp;style=for-the-badge&amp;logoColor=white)](https://www.nuget.org/profiles/Stone_Red)
+[![Discord](http://img.shields.io/badge/X-black.svg?&logo=x&style=for-the-badge&logoColor=white)](http://discord.me.stone-red.net)
 [![Discord](http://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](http://discord.me.stone-red.net)
