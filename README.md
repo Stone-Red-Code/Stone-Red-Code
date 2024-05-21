@@ -10,7 +10,7 @@ Here are a few technologies & tools I've been working with recently:
 [![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dotnet&color=5834d5)](https://dot.net)
 [![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp&color=5834d5)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)\
 [![Blazor](https://img.shields.io/badge/Blazor-blue?style=for-the-badge&logo=blazor&color=5834d5)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
-[![Avalonia UI](https://img.shields.io/badge/.NET%20MAUI-blue?style=for-the-badge&logo=dotnet&color=5834d5)](https://dotnet.microsoft.com/en-us/apps/maui)\
+[![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-blue?style=for-the-badge&logo=dotnet&color=5834d5)](https://dotnet.microsoft.com/en-us/apps/maui)\
 [![Auth0](https://img.shields.io/badge/Auth0-blue?style=for-the-badge&logo=auth0&logoColor=white&color=black)](https://auth0.com)
 [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white&color=086dd7)](https://docker.com)
 
