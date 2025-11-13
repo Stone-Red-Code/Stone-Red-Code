@@ -14,8 +14,8 @@ Here are a few technologies & tools I've been working with recently:
 [![Auth0](https://img.shields.io/badge/Auth0-blue?style=for-the-badge&logo=auth0&logoColor=white&color=black)](https://auth0.com)
 [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white&color=086dd7)](https://docker.com)
 
-[![Github stats](https://readme-stats.clckblog.space/api?username=Stone-Red-Code&show_icons=true&bg_color=00000000&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Stone-Red-Code&exclude_repo=DesktopMagic&bg_color=00000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats]( https://github-readme-stats.vercel.app/api?username=Stone-Red-Code&show_icons=true&bg_color=00000000&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Stone-Red-Code&exclude_repo=DesktopMagic&bg_color=00000000&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <a href="https://vgen.co/Cerise"><img src="https://github.com/Stone-Red-Code/Stone-Red-Code/assets/56473591/5b623567-042d-4ee7-b647-f7b0b6f8a3e1" width="115"></a>
