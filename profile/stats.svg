@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Stone_Red's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 103, Total Commits  (last year) : 476, Total PRs: 122, Total Issues: 21, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 103, Total Commits  (last year) : 476, Total PRs: 123, Total Issues: 21, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.67177130245128;
+        stroke-dashoffset: 86.51236139365044;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >122</text>
+      >123</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
